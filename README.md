@@ -1,4 +1,4 @@
-[README_Version30.md](https://github.com/user-attachments/files/22955093/README_Version30.md)
+
 # <p align="center">👋 Hello, I'm <span style="color: #61cf5a;">el-guemra-br</span>!
 </p>
 
