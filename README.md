@@ -76,7 +76,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
   <img src="https://img.shields.io/badge/Visitors-Track-blue?style=flat-square&logo=github" alt="Track Visitors" />
   <br>
   <sub>
-    <i>Thank you for stopping by! Your visit is appreciated. </i>
+    Thank you for stopping by! Your visit is appreciated. 
   </sub>
 </p>
 
