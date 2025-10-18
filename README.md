@@ -63,10 +63,10 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 - Design & Drawing
 
 ## 📊 GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=el-guemra-br&theme=radical)  
 
 ## 👀 Visitor Counter
 
