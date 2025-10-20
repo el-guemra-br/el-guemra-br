@@ -32,63 +32,84 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-E72126?logo=Ruby&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 
 ## 🖥️ Operating Systems
+
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat)
 ![BlackArch Badge](https://img.shields.io/badge/-BlackArch-000000?logo=archlinux&logoColor=white&style=flat)
 ![Linux Mint Badge](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ## 🚀 What I'm Working On 
+
 - Exploring cross-platform app development with Flutter
 - Building and deploying projects with Docker
 - Learning OSINT & Ethical Hacking for investigation and security
 - Creating simple games for fun and learning
 
 ## 🌐 WordPress Experience
+
 - Medium proficiency in WordPress
 - Built several websites using WordPress
 - WordPress Certificate holder
 
 ## 🎨 Creative Side
+
 - Design & Drawing
 
 ## 📊 GitHub Stats & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=el-guemra-br&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=el-guemra-br&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=el-guemra-br&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 👀 Visitor Counter
 
 <p align="center">
   <img src="https://github.com/el-guemra-br.png" alt="Visitor Count" width="130" />
   <br>
-  <img src="https://img.shields.io/badge/Visitors-Track-blue?style=flat-square&logo=github" alt="Track Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=el-guemra-br.el-guemra-br&" />
   <br>
   <sub>
     Thank you for stopping by! Your visit is appreciated. 
   </sub>
 </p>
 
+<div align="center">
+
+</div>
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/el-guemra-br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/el_guemra_br/)
-[![x](https://img.shields.io/badge/-white?logo=x&logoColor=black&style=for-the-badge)](https://x.com/el_guemra_br)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/el_guemra_br/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/el_guemra_br)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/el-guemra-br)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://paypal.me/elguemra)
 
+---
+>---
 > **Always :**  
-> 🌟 *Feel free to browse my repositories and see what I’m working on! Let’s connect and build something awesome together.*
+>> 🌟*Feel free to browse my repositories and see what I’m working on! Let’s connect and build something awesome together.*
+>>
+>---
 ---
-
