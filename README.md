@@ -90,6 +90,9 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=el-guemra-br.el-guemra-br&" />
   <br>
+
+  <img src="https://img.shields.io/github/stars/el-guemra-br?style=flat)](https://github.com/el-guemra-br&" />
+  <br>
   <sub>
     Thank you for stopping by! Your visit is appreciated. 
   </sub>
