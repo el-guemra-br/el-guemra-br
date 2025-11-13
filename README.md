@@ -77,7 +77,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 ## 📊 GitHub Stats & Languages
 
-![](https://github-readme-stats.vercel.app/api?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=transparent)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=el-guemra-br&theme=dark&hide_border=false)<br/>
 
