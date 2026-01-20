@@ -110,9 +110,8 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
   
   <br>
    <img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://x.com/el_guemra_br " />
-   <img src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/el_guemra_br )" />
-   <img src="https://img.shields.io/badge/threads-%23000000.svg?logo=threads&logoColor=white " />
-   <img [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/el-guemra-br)
+   <img  src="https://img.shields.io/badge/threads-%23000000.svg?logo=threads&logoColor=white " />
+   <img (https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/el-guemra-br)
    <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)(https://paypal.me/elguemra " />
   <br>
   
