@@ -109,15 +109,24 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 <div align="center">
 
 <a href="https://instagram.com/el_guemra_br">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+ width="40" />
+ style="fill:#E4405F;" 
 </a>
+
 &nbsp;&nbsp;&nbsp;
 <a href="https://x.com/el_guemra_br">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+ width="40"
+ style="fill:#E4405F;"  />
+
 </a>
+
 &nbsp;&nbsp;&nbsp;
 <a href="https://paypal.me/elguemra">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg"
+ width="40" 
+ style="fill:#00457c;" />
 </a>
 
 </div>
