@@ -108,54 +108,19 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 <div align="center">
 
-  <a href="https://instagram.com/el_guemra_br" target="_blank">
-    <div style="
-      display:inline-flex;
-      justify-content:center;
-      align-items:center;
-      width:48px;
-      height:48px;
-      background:#E4405F;
-      border-radius:50%;
-    ">
-      <img      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
-        width="24"
-      />
-    </div>
+  <a href="https://instagram.com/el_guemra_br" target="_black" style="display:inline-flex; justify-content:center; align-items:center; width:55px; height:55px; background:#E4405F; border-radius:50%; margin-right:30px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" />
   </a>
-  <a href="https://x.com/el_guemra_br" target="_blank">
-    <div style="
-      display:inline-flex;
-      justify-content:center;
-      align-items:center;
-      width:48px;
-      height:48px;
-      background:#000000;
-      border-radius:50%;
-    ">
-      <img       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
-        width="24"
-      />
-    </div>
-  </a>
-  <a href="https://paypal.me/elguemra" target="_blank">
-    <div style="
-      display:inline-flex;
-      justify-content:center;
-      align-items:center;
-      width:48px;
-      height:48px;
-      background:#00457C;
-      border-radius:50%;
-    ">
-      <img
-src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg"
-        width="24"
-      />
-    </div>
-  </a>
-</div>
 
+  <a href="https://x.com/el_guemra_br" target="_blank" style="display:inline-flex; justify-content:center; align-items:center; width:55px; height:55px; background:#000000; border-radius:50%; margin-right:30px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="24" />
+  </a>
+
+  <a href="https://paypal.me/elguemra" target="_blue" style="display:inline-flex; justify-content:center; align-items:center; width:55px; height:55px; background:#00457C; border-radius:50%;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg" width="24" />
+  </a>
+
+</div>        
 
 <p align="center">
   <sub>
