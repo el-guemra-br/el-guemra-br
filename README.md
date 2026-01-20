@@ -123,7 +123,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 <a href="https://paypal.me/elguemra">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg"
  width="40" 
- style="fill:#00457c;" />
+ style="#00457c;" />
 </a>
 </div>
 
