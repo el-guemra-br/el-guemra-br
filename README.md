@@ -108,24 +108,54 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 <div align="center">
 
-<a href="https://instagram.com/el_guemra_br">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
- width="40" 
- style="fill:#E4405F;" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/el_guemra_br">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
- width="40"
- style="fill:#000000;"  />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://paypal.me/elguemra">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg"
- width="40" 
- style="#00457c;" />
-</a>
+  <a href="https://instagram.com/el_guemra_br" target="_blank">
+    <div style="
+      display:inline-flex;
+      justify-content:center;
+      align-items:center;
+      width:48px;
+      height:48px;
+      background:#E4405F;
+      border-radius:50%;
+    ">
+      <img      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+        width="24"
+      />
+    </div>
+  </a>
+  <a href="https://x.com/el_guemra_br" target="_blank">
+    <div style="
+      display:inline-flex;
+      justify-content:center;
+      align-items:center;
+      width:48px;
+      height:48px;
+      background:#000000;
+      border-radius:50%;
+    ">
+      <img       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+        width="24"
+      />
+    </div>
+  </a>
+  <a href="https://paypal.me/elguemra" target="_blank">
+    <div style="
+      display:inline-flex;
+      justify-content:center;
+      align-items:center;
+      width:48px;
+      height:48px;
+      background:#00457C;
+      border-radius:50%;
+    ">
+      <img
+src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg"
+        width="24"
+      />
+    </div>
+  </a>
 </div>
+
 
 <p align="center">
   <sub>
