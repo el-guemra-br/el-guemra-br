@@ -109,10 +109,10 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 <p align="center">
   
   <br>
-   <img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://x.com/el_guemra_br" />
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+   <img src="(https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://x.com/el_guemra_br)" />
+   <img src="(https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/el_guemra_br )" />
    <img src="https://img.shields.io/badge/threads-%23000000.svg?logo=threads&logoColor=white " />
-   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)(https://www.linkedin.com/in/el-guemra-br " />
+   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)(https://www.linkedin.com/in/el-guemra-br )" />
    <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)(https://paypal.me/elguemra " />
   <br>
   
