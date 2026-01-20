@@ -106,15 +106,23 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 ## 📫 Connect with Me
 
+<div align="center">
+
+<a href="https://instagram.com/el_guemra_br">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/el_guemra_br">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://paypal.me/elguemra">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg" width="40" />
+</a>
+
+</div>
+
 <p align="center">
-  
-  <br>
-   <img src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://x.com/el_guemra_br " />
-   <img  src="https://img.shields.io/badge/threads-%23000000.svg?logo=threads&logoColor=white " />
-   <img (https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/el-guemra-br)
-   <img src="https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)(https://paypal.me/elguemra " />
-  <br>
-  
   <sub>
    <img src="https://img.shields.io/badge/GitHub stars keep me motivated, PayPal keeps me caffeinated ☕😂. -9bb465 " />
   </sub>
