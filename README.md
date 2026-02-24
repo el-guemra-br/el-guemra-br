@@ -83,7 +83,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 ## GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=el-guemra-br&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![ㅤ](https://github-profile-trophy.vercel.app/?username=el-guemra-br&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Visitor Counter
 
@@ -140,4 +140,4 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ---
 
 
-
+卐
