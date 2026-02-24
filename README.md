@@ -19,7 +19,7 @@
 
 ---
 
-<h1 align="center">💻 Welcome to my GitHub Profile!</h1>
+<h1 align="center"> Welcome to my GitHub Profile!</h1>
 
 <p align="center">
 I'm passionate about <b> programming</b>,  
@@ -28,7 +28,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 </p>
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
@@ -48,7 +48,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 
-## 🖥️ Operating Systems
+## Operating Systems
 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
@@ -58,34 +58,34 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
-## 🚀 What I'm Working On 
+## What I'm Working On 
 
 - Exploring cross-platform app development with Flutter
 - Building and deploying projects with Docker
 - Learning OSINT & Ethical Hacking for investigation and security
 - Creating simple games for fun and learning
 
-## 🌐 WordPress Experience
+## WordPress Experience
 
 - Medium proficiency in WordPress
 - Built several websites using WordPress
 - WordPress Certificate holder
 
-## 🎨 Creative Side
+## Creative Side
 
 - Design & Drawing
 
-## 📊 GitHub Stats & Languages
+## GitHub Stats & Languages
 
 ![](https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=transparent)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=el-guemra-br&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=el-guemra-br&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 👀 Visitor Counter
+## Visitor Counter
 
 <p align="center">
   <img src="https://github.com/el-guemra-br.png" alt="Visitor Count" width="130" />
@@ -104,7 +104,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 </div>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -134,7 +134,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ---
 >---
 > **Always :**  
->> 🌟*Feel free to browse my repositories and see what I’m working on! Let’s connect and build something awesome together.*
+>> *Feel free to browse my repositories and see what I’m working on! Let’s connect and build something awesome together.*
 >>
 >---
 ---
