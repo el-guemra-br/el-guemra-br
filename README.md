@@ -124,7 +124,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 <p align="center">
   <sub>
-   <img src="https://img.shields.io/badge/GitHub stars keep me motivated, PayPal keeps me caffeinated ☕😂. -ffffff " />
+   <img  stars keep me motivated, PayPal keeps me caffeinated ☕😂./>
   </sub>
 </p>
 
