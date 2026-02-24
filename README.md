@@ -124,7 +124,7 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 <p align="center">
   <sub>
-   <img  stars keep me motivated, PayPal keeps me caffeinated ☕😂./>
+    stars keep me motivated, PayPal keeps me caffeinated ☕😂.
   </sub>
 </p>
 
