@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Student-blue?style=flat-square" alt="Student Badge"/>
   <img src="https://img.shields.io/badge/Developer-green?style=flat-square" alt="Developer Badge"/>
   <img src="https://img.shields.io/badge/WordPress%20Certified-ff69b4?style=flat-square" alt="WordPress Certificate"/>
-  <img src="https://img.shields.io/badge/OSINT-blue?style=flat-square" alt="OSINT Badge"/>
+  
   <img src="https://img.shields.io/badge/Ethical%20Hacking-orange?style=flat-square" alt="Ethical Hacking Badge"/>
 
 </p>
