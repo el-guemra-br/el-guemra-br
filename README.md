@@ -87,7 +87,7 @@
 <h1 align="center">GitHub Stats, Languages & Trophies</h1>
 
 <div align="center">
-<p><img align="left"src="https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=transparent" alt="el-guemra-br"/></p>
+<p><img align="center"src="https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=transparent" alt="el-guemra-br"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-guemra-br&" alt="el-guemra-br" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="el-guemra-br"   /></p>
 </div>
