@@ -22,14 +22,15 @@
 <h1 align="center"> Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-I'm passionate about <b> programming</b>,  
-exploring <b> new technologies</b>,  
-and expressing creativity through <b> design</b> and <b> drawing</b>.
+  I'm passionate about <b> programming, 
+  exploring <b> new technologies,  
+  and expressing creativity through <b> design</b> and <b> drawing.
 </p>
 
 
-## Tech Stack
-
+<h1 align="center">Teck Stack </h1>
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
@@ -39,8 +40,6 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
@@ -48,8 +47,11 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
 
-## Operating Systems
+</p>
 
+<h1 align="center">Operating Systems</h1>
+<p align="center">
+  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat)
@@ -57,36 +59,39 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 ![Linux Mint Badge](https://img.shields.io/badge/-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
-## What I'm Working On 
-
+</p>
+ 
+<h1 align="center">What I'm Working On</h1>
+<p align="center">
 - Exploring cross-platform app development with Flutter
 - Building and deploying projects with Docker
 - Learning OSINT & Ethical Hacking for investigation and security
 - Creating simple games for fun and learning
+</p>
 
-## WordPress Experience
+<h1 align="center">WordPress Experience</h1>
 
+<p align="center">
 - Medium proficiency in WordPress
 - Built several websites using WordPress
 - WordPress Certificate holder
+</p>
 
-## Creative Side
-
+<h1 align="center">Creative Side</h1>
+<p align="center">
 - Design & Drawing
+</p>
 
-## GitHub Stats & Languages
 
-![](https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=transparent)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=el-guemra-br&theme=dark&hide_border=false)<br/>
+<h1 align="center">GitHub Stats, Languages & Trophies</h1>
 
-## GitHub Trophies
+<div align="center">
+<p><img align="left"src="https://github-readme-stats.vercel.app/api?username=el-guemra-br&show_icons=true&theme=transparent" alt="el-guemra-br"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=el-guemra-br&" alt="el-guemra-br" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="el-guemra-br"   /></p>
+</div>
 
-![ㅤ](https://github-profile-trophy.vercel.app/?username=el-guemra-br&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Visitor Counter
-
+<h1 align="center">Visitor Counter</h1>
 <p align="center">
   <img src="https://github.com/el-guemra-br.png" alt="Visitor Count" width="130" />
   <br>
@@ -104,32 +109,16 @@ and expressing creativity through <b> design</b> and <b> drawing</b>.
 
 </div>
 
-## Connect with Me
 
-
-<div align="center">
-
-  <a href="https://instagram.com/el_guemra_br" target="_black" style="display:inline-flex; justify-content:center; align-items:center; width:55px; height:55px; background:#E4405F; border-radius:50%; margin-right:30px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="24" />
-  </a>
-
-  <a href="https://x.com/el_guemra_br" target="_blank" style="display:inline-flex; justify-content:center; align-items:center; width:55px; height:55px; background:#000000; border-radius:50%; margin-right:30px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="24" />
-  </a>
-
-  <a href="https://paypal.me/elguemra" target="_blue" style="display:inline-flex; justify-content:center; align-items:center; width:55px; height:55px; background:#00457C; border-radius:50%;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/paypal.svg" width="24" />
-  </a>
-
-</div>        
-
+<h1 align="center">Connect with me:</h1>
 <p align="center">
-  <sub>
-    Stars keep me Motivated, PayPal keeps me Caffeinated ☕😂.
-  </sub>
+<a href="https://dev.to/el-guemra-br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="el-guemra-br" height="30" width="40" /></a>
+<a href="https://twitter.com/el_guemra_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_guemra_br" height="30" width="40" /></a>
+<a href="https://instagram.com/el_guemra_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_guemra_br" height="30" width="40" /></a>
 </p>
 
-
+<h1 align="center">Support:</h1>
+<p><a href="https://ko-fi.com/elguemra"> <img align="cenrer" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="elguemra"></a></p>
 
 
 ---
