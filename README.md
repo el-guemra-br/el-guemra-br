@@ -93,6 +93,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-guemra-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="el-guemra-br"   /></p>
 </div>
 
+</div>
+<dev>
+  <img src="https://wakatime.com/share/@el_guemra_br/8a9ca4e4-7eda-4a49-aae4-a4c50a96df95.svg" /img>
+</dev>
+
+
 <h1 align="center">Visitor Counter</h1>
 <p align="center">
   <img src="https://github.com/el-guemra-br.png" alt="Visitor Count" width="130" />
@@ -108,8 +114,6 @@
 </p>
 
 <div align="center">
-
-</div>
 
 
 <h1 align="center">Connect with me:</h1>
